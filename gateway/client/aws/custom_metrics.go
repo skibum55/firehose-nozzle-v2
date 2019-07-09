@@ -23,7 +23,7 @@
    specific language governing permissions and limitations under the License.
 */
 
-package main
+package gateway_client
 
 import (
 	"github.com/aws/aws-sdk-go/aws"
@@ -33,7 +33,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func putAWSMetrics() {
 	// Initialize a session that the SDK uses to load
 	// credentials from the shared credentials file ~/.aws/credentials
 	// and configuration from the shared configuration file ~/.aws/config.

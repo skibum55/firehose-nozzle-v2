@@ -22,7 +22,7 @@
    specific language governing permissions and limitations under the License.
 */
 
-package main
+package gateway_client
 
 import (
 	"github.com/aws/aws-sdk-go/aws"
