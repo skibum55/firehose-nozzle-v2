@@ -11,3 +11,5 @@ gateway/manifest.yml
 tile/product/
 tile/release/
 tile/resources/nozzle.zip
+
+miclip.template.sh
